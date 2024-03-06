@@ -1,4 +1,4 @@
 def main(a,b):
-    add = a + b
-    print(add)
+    sum = a + b
+    print(sum)
 main(2,3)
